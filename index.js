@@ -15,5 +15,5 @@ function save() {
 }
 
 function reset() {
-   saveEl.textContent = "Eerdere entries: 0"
+   saveEl.textContent = "Eerdere entries:"
 }

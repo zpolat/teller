@@ -47,6 +47,10 @@ button {
    background: green;
 }
 
+#reset-btn {
+   background: blue;
+}
+
 #save-el {
    font-weight: bolder;
 }

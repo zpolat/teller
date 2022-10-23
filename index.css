@@ -1,0 +1,50 @@
+body {
+    background-image: url("teller.jpeg");
+    background-size: cover;
+    font-family: Verdana,Geneva,sans-serif; 
+    text-align: center;
+    height: 100vh;
+    color: red
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+    padding: 10px;
+    text-shadow: 0 0 30px yellow;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: red;
+}
+
+#save-btn {
+    background: green;
+}
+
+#save-el {
+    font-weight: bolder;
+}
+
